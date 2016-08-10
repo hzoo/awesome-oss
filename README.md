@@ -1,4 +1,5 @@
-# awesome-oss
+# awesome-oss [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of resources to help writing/maintain open source libraries
 
 ### Blog Posts
@@ -15,13 +16,17 @@ A curated list of resources to help writing/maintain open source libraries
 
 ### Screencasts
 
-- [How to Write an Open Source JavaScript Library](https://kcd.im/write-oss): [Kent C. Dodds](https://twitter.com/kentcdodds) - A free [egghead.io](https://egghead.io/) course of 24 short videos on creating an open source library from scratch
+- [How to Write an Open Source JavaScript Library](https://kcd.im/write-oss): [Kent C. Dodds](https://twitter.com/kentcdodds) - A free [egghead.io](https://egghead.io) course of 24 short videos on creating an open source library from scratch
 - [makeapullrequest.com](http://makeapullrequest.com): [Kent C. Dodds](https://twitter.com/kentcdodds) - A badge to put on your repos to make them more encouraging to new comers
 
 ### Podcasts
 
 - [Javascript Air - Lodash & Open Source](https://jsair.io/lodash)
 - [Javascript Air - Publishing JavaScript Packages](https://jsair.io/publishing)
+
+### Related
+
+- [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development
 
 ## License
 
