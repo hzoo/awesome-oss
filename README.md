@@ -21,6 +21,8 @@ A curated list of resources to help writing/maintain open source libraries
 
 ### Podcasts
 
+- [The Changelog](https://changelog.com/podcast) - Interviews with open source project maintainers.
+- [Request for Commits](https://changelog.com/rfc) - Explores different perspectives in open source sustainability.
 - [Javascript Air - Lodash & Open Source](https://jsair.io/lodash)
 - [Javascript Air - Publishing JavaScript Packages](https://jsair.io/publishing)
 
