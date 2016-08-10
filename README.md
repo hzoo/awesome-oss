@@ -23,6 +23,10 @@ A curated list of resources to help writing/maintain open source libraries
 - [Javascript Air - Lodash & Open Source](https://jsair.io/lodash)
 - [Javascript Air - Publishing JavaScript Packages](https://jsair.io/publishing)
 
+### Related
+
+- [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
