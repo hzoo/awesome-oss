@@ -2,7 +2,7 @@
 
 A curated list of resources to help writing/maintain open source libraries
 
-### Courses/Events/Organizations that encourage/contribute
+### Courses/Events/Organizations
 
 - [CIS 399 Fall 2016: Open Source Software at University of Pennsylvania](https://www.cis.upenn.edu/~cdmurphy/foss/fall2016/)
 - [Open Source College Hackathon at University of Illinois](https://medium.com/@HackIllinois/open-source-2017-b322ad688471#.d3by08bws)
