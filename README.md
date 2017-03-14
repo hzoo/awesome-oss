@@ -2,6 +2,16 @@
 
 A curated list of resources to help writing/maintain open source libraries
 
+### Courses/Events/Organizations
+
+- [CIS 399 Fall 2016: Open Source Software at University of Pennsylvania](https://www.cis.upenn.edu/~cdmurphy/foss/fall2016/)
+- [Open Source College Hackathon at University of Illinois](https://medium.com/@HackIllinois/open-source-2017-b322ad688471#.d3by08bws)
+- [Google Summer of Code](https://developers.google.com/open-source/gsoc/)
+  - Mentoring applications open January 19th, 2017; student applicaations open March 20th, 2017.
+- [Undergraduate Capstone Open Source Projects, Canada](http://ucosp.ca/about.html)
+- [FOSS Minor at Rochester Institute of Technology](https://www.rit.edu/gccis/igm/free-open-source-software-foss-mn)
+  - [IGME 585 Project in Free and Open Source Software Development]()
+  
 ### Blog Posts
 
 - [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener): Steve Klabnik has a good metaphor for how one can think about open source maintenance (tending to issues, triaging, etc).
