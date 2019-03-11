@@ -11,14 +11,13 @@ A curated list of resources to help writing/maintain open source libraries
 - [Undergraduate Capstone Open Source Projects, Canada](http://ucosp.ca/about.html)
 - [FOSS Minor at Rochester Institute of Technology](https://www.rit.edu/gccis/igm/free-open-source-software-foss-mn)
   - [IGME 585 Project in Free and Open Source Software Development]()
-  
+- [Open Source Studio - ITP, Tisch, NYU](https://github.com/Open-Source-Studio-at-ITP/Syllabus)
+
 ### Blog Posts
 
 - [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener): Steve Klabnik has a good metaphor for how one can think about open source maintenance (tending to issues, triaging, etc).
 - [First Timers Only](https://kcd.im/first-timers-only): [Kent C. Dodds](https://twitter.com/kentcdodds) - A suggestion to Open Source project maintainers...
 - [Open Source Stamina](https://kcd.im/stamina): [Kent C. Dodds](https://twitter.com/kentcdodds) - You contribute best to something you use regularly.
-- [Why I don't commit generated files to master](https://kcd.im/generated): [Kent C. Dodds](https://twitter.com/kentcdodds)
-- [How to distribute your AngularJS module](https://kcd.im/distribute-angular): [Kent C. Dodds](https://twitter.com/kentcdodds) - Export the name of your module (for Angular 1)
 
 ### Videos/Conference Talks
 
@@ -33,11 +32,11 @@ A curated list of resources to help writing/maintain open source libraries
 
 - [The Changelog](https://changelog.com/podcast) - Interviews with open source project maintainers.
 - [Request for Commits](https://changelog.com/rfc) - Explores different perspectives in open source sustainability.
-- [Javascript Air - Lodash & Open Source](https://jsair.io/lodash)
-- [Javascript Air - Publishing JavaScript Packages](https://jsair.io/publishing)
+- [Hope in Source](https://hopeinsource.com/) - Conversations about the intersections of open source and faith.
 
 ### Related
 
+- [lemonade-stand](https://github.com/nayafia/lemonade-stand) - A guide for financial support in open source
 - [awesome-paid-open-source](https://github.com/mrjoelkemp/awesome-paid-open-source) - Collection of links around paid/sustainable open source development
 
 ## License
